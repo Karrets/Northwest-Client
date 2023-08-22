@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "meFxV1OwLvIvcO4qTnYrKgMzDuZ72SK7JQTMzQWADFKf84+u+HmSpPFYMa6qwVk7Syk6fjMALKbNt8kkN1W3yQ==",
+  "success": true,
+  "projectFilePath": "/home/kae/Projects/School/Northwest-Console/Northwest-Console/Northwest-Console.csproj",
+  "expectedPackageFiles": [
+    "/home/kae/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
